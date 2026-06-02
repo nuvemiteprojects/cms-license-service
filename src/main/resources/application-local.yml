@@ -7,7 +7,7 @@ eureka:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/cms_licenses_db
+    url: jdbc:postgresql://localhost:5432/cms_license_db
     username: chemical
     password: chemical
   security:
